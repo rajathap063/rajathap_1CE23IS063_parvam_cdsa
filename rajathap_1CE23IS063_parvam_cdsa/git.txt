@@ -1,0 +1,13 @@
+git clone "https://github.com/amithhm/DAY7.git"
+
+cd "path"
+
+git status
+
+git add .
+
+git status
+
+git commit -m "Message"
+
+git push origin main
